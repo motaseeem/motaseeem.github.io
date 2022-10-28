@@ -1,6 +1,6 @@
 
 
-# Objectifs:
+# Objectifs :
 
 1.Mettre en oeuvre les technologies Web pour créer et héberger mon portfolio 
 ![Capture d’écran 2022-10-17 103441](https://user-images.githubusercontent.com/114671580/196130094-0ea465d2-a296-4710-8cc7-fbc2962b43b3.png)
