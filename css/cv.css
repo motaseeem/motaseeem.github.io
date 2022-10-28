@@ -218,7 +218,7 @@ body {
     -webkit-filter: grayscale(0);
     -moz-filter: grayscale(0);
     -ms-filter: grayscale(0);
-    -o-filter: grayscale(0);
+    -o-filter: grayscale(0 );
 }
 /*
 Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
